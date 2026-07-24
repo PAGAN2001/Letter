@@ -1,0 +1,6 @@
+{
+  "name": "Love Letter Surprise",
+  "description": "An interactive girlfriend birthday card featuring an animated pixelated black and gray cat mascot, dodging No button, birthday confetti, audio SFX, and custom love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
