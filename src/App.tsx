@@ -8,8 +8,8 @@ import { Settings, Heart, Sparkles } from 'lucide-react';
 
 export default function App() {
   const [config, setConfig] = useState<AppConfig>({
-    title: 'Happy Birthday, My Love! 🎂 Will you celebrate with me?',
-    recipientName: 'My Favorite Girlfriend',
+    title: 'Happy Birthday BABIII! 🎂 Will you celebrate with me?',
+    recipientName: 'To My Favorite Girlfriend',
     anniversaryDate: '',
     customMessage:
       'Happy Birthday to the most beautiful, caring, and amazing girlfriend in the world! You bring so much joy, warmth, and laughter into my life every single day. I hope all your birthday wishes come true today and forever. I love you endlessly! ❤️🎂✨',
